@@ -1,0 +1,15 @@
+{
+  "magazine_id": "your_note_magazine_id",
+  "github_username": "your_github_username",
+  "note_username": "your_note_username",
+  "catalog_repo_name": "your-catalog-repo",
+  "exclude_keywords_title": [
+    "メンバーシップ限定",
+    "会員限定",
+    "凍結",
+    "アーカイブ"
+  ],
+  "exclude_keywords_body": [
+    "メンバーシップ限定記事"
+  ]
+}

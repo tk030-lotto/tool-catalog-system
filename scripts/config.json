@@ -1,0 +1,19 @@
+{
+  "magazine_id": "m94b759b541f6",
+  "github_username": "tk030-lotto",
+  "note_username": "zero_ai_dev",
+  "catalog_repo_name": "my-tools",
+  "exclude_keywords_title": [
+    "ビンゴ5",
+    "ナンバーズ",
+    "NUMBERS",
+    "BINGO",
+    "メンバーシップ限定",
+    "会員限定",
+    "凍結",
+    "アーカイブ"
+  ],
+  "exclude_keywords_body": [
+    "メンバーシップ限定記事"
+  ]
+}

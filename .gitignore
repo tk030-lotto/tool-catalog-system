@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.pytest_cache/
+
+# OS固有ファイル
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# エディタ・IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ログ・一時ファイル
+*.log
+*.tmp
+
+# 設定ファイル（ローカル個別用）
+scripts/config.local.json
+
+# 内部運用・プロトコルファイル（公開不要）
+AI_RULES.md
+SKILLS.md
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+RECORD.md
+.agents/
+.cursorrules
+.clauderules
+.clinerules
+.github/copilot-instructions.md
+knowledge/
+
+# 開発・設計ドキュメント
+MY_TOOLS_SEO_*.md
+My Tools SEO現状調査指示書.md
+*設計書*.txt
